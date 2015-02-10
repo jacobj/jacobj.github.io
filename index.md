@@ -14,3 +14,6 @@ In my spare time I make music with [wpatcs.](http://wpatcs.bandcamp.com) and
 playing around with my MicroKorg synthesizer.
 
 My resume can be found [here.](img/Resume.pdf)
+
+This site is generated using [Jekyll](http://jekyllrb.com/) and generously
+hosted via [Github Pages](https://pages.github.com/). All blog posts and static pages are written using [Markdown](http://daringfireball.net/projects/markdown/).
