@@ -8,7 +8,7 @@ permalink: /projects/
 [github.com/bcejmxjs/blackbelt](https://github.com/bcejmxjs/blackbelt)
 
 **Work in Progress:** An online course system and website for Melbourne Martial
-  Arts in Melbourne Florida using MEAN.js
+  Arts in Melbourne Florida using Angular, Express, Node, and MongoDB.
 
 ### Tracktag
 [github.com/jacobj/TrackTag](https://github.com/jacobj/TrackTag)
