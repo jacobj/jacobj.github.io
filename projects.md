@@ -7,8 +7,8 @@ permalink: /projects/
 ### Blackbelt
 [github.com/bcejmxjs/blackbelt](https://github.com/bcejmxjs/blackbelt)
 
-**Work in Progress:** An online course system and website for Melbourne Martial
-  Arts in Melbourne Florida using Angular, Express, Node, and MongoDB.
+An online course system and website for Melbourne Martial
+Arts in Melbourne Florida using Angular, Express, Node, and MongoDB.
 
 ### Tracktag
 [github.com/jacobj/TrackTag](https://github.com/jacobj/TrackTag)
@@ -20,4 +20,4 @@ pop-culture references their songtitles or names reference.
 [github.com/jacobj/Symbolic-Calculator](https://github.com/jacobj/Symbolic-Calculator)
 
 A symbolic calculator written with a group in C++ when we were learning the
-language. **WARNING:** The code would make even Ron Swanson cry.
+language. The code would make even Ron Swanson cry.
