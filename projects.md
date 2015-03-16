@@ -6,8 +6,10 @@ permalink: /projects/
 
 ### VoteOnIt
 [github.com/VoteOnIt/VoteOnIt](https://github.com/VoteOnIt/VoteOnIt) VoteOnIt
-was designed to make short-term polling easy and intuitive for small to large
-groups. Built with Angular, Express, Node, and MongoDB in 18 hours for SwampHacks 2015.
+
+An application designed to make short-term polling easy and intuitive for small
+to large groups. Built with Angular, Express, Node, and MongoDB in 18 hours for
+SwampHacks 2015. A live demo can be viewed at [voteonit.me](http://www.voteonit.me).
 
 ### Blackbelt
 [github.com/bcejmxjs/blackbelt](https://github.com/bcejmxjs/blackbelt)
