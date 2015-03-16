@@ -1,4 +1,9 @@
---- layout: page title: Projects permalink: /projects/ --- ### VoteOnIt
+--- layout: page
+title: Projects
+permalink: /projects/
+---
+
+### VoteOnIt
 [github.com/VoteOnIt/VoteOnIt](https://github.com/VoteOnIt/VoteOnIt) VoteOnIt
 was designed to make short-term polling easy and intuitive for small to large
 groups. Built with Angular, Express, Node, and MongoDB in 18 hours for SwampHacks 2015.
