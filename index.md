@@ -3,16 +3,17 @@ layout: default
 title: About
 permalink: /
 ---
-
-<img src="img/me.jpg" width="200" align="left" style="padding-right:20px;"> I am
-a fifth-year undergraduate computer science student at the University of
+<div style="text-align:center">
+<img src="img/me.png" width="200" align="center" style="margin-bottom:30px; border-radius:200px">
+</div>
+I am a fifth-year undergraduate computer science student at the University of
 Florida. My interests include web development, distributed systems,
 cryptography, and Unix/Linux server administration.
 
 I currently work at a small startup in Gainesville, Florida that's working on a
 secure file-sharing and virtualization platform.
 
-In my spare time I make music with [wpatcs.] I also waste multiple hours playing
+In my spare time I make music with [wpatcs.](http://wpatcs.bandcamp.com) I also waste multiple hours playing
 around with my MicroKorg synthesizer. You can check out what I've been listening
 to lately over at my [last.fm](http://www.last.fm/)
 
