@@ -6,7 +6,7 @@
 
 
 // Our variables
-$base-font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+$base-font-family: Menlo, DejaVu Sans Mono, Consolas, Monospace;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
@@ -15,7 +15,7 @@ $spacing-unit:     30px;
 
 $text-color:       #111;
 $background-color: #F0EDEB;
-$brand-color:      #2AA198;
+$brand-color:      #57A91C;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 35%);

@@ -5,16 +5,20 @@ permalink: /
 ---
 
 <img src="img/me.jpg" width="200" align="left" style="padding-right:20px;"> I am
-a fourth-year undergraduate computer science student at the University of
-Florida. My interests include web development, databases, applied mathematics,
-and Unix/Linux server administration.
+a fifth-year undergraduate computer science student at the University of
+Florida. My interests include web development, distributed systems,
+cryptography, and Unix/Linux server administration.
 
-In my spare time I make music with [wpatcs.](http://wpatcs.bandcamp.com) and
-[Cauchy-Schwarz](http://cauchy-schwarz.bandcamp.com/). I also waste multiple
-hours playing around with my MicroKorg synthesizer. You can check out what I've
-been listening to lately over at my [last.fm](http://www.last.fm/)
+I currently work at a small startup in Gainesville, Florida that's working on a
+secure file-sharing and virtualization platform.
 
-My resume can be found [here.](https://dl.dropboxusercontent.com/u/11061210/Resume.pdf)
+In my spare time I make music with [wpatcs.] I also waste multiple hours playing
+around with my MicroKorg synthesizer. You can check out what I've been listening
+to lately over at my [last.fm](http://www.last.fm/)
+
+My resume can be found
+[here.](https://dl.dropboxusercontent.com/u/11061210/Resume.pdf) It's probably
+out of date.
 
 In case you need to email me privately, my PGP key can be found [here.](key.asc)
 My fingerprint is:
