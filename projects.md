@@ -11,7 +11,7 @@ A video course system and web presence for Melbourne Martial Arts in Melbourne,
 Florida. Built with Angular, Express, Node, and MongoDB.
 
 ### VoteOnIt
-[github.com/VoteOnIt/VoteOnIt](https://github.com/VoteOnIt/VoteOnIt) VoteOnIt
+[github.com/VoteOnIt/VoteOnIt](https://github.com/VoteOnIt/VoteOnIt)
 
 An application designed to make short-term polling easy and intuitive for small
 to large groups. Built with Angular, Express, Node, and MongoDB in 18 hours for
