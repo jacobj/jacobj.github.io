@@ -1,10 +1,10 @@
----
+PP---
 layout: default
 title: About
 permalink: /
 ---
 <div style="text-align:center">
-<img src="img/me.png" width="200" align="center" style="margin-bottom:30px; border-radius:200px">
+  <img src="img/me.png" width="200" align="center" style="margin-bottom:30px; border-radius:200px">
 </div>
 I am a fifth-year undergraduate computer science student at the University of
 Florida. My interests include web development, distributed systems,
