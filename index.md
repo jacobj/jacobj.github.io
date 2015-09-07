@@ -6,9 +6,9 @@ permalink: /
 <div style="text-align:center">
   <img src="img/me.png" width="200" align="center" style="margin-bottom:30px; border-radius:200px">
 </div>
-I am a fifth-year undergraduate computer science student at the University of
-Florida. My interests include web development, distributed systems,
-cryptography, and Unix/Linux server administration.
+I am an undergraduate computer science student at the University of Florida. My
+interests include web development, distributed systems, cryptography, and
+Unix/Linux server administration.
 
 I currently work at a small startup in Gainesville, Florida that's working on a
 secure file-sharing and virtualization platform.
