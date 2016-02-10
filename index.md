@@ -18,7 +18,7 @@ around with my MicroKorg synthesizer. You can check out what I've been listening
 to lately over at my [last.fm](http://www.last.fm/user/xyzodiac)
 
 My resume can be found
-[here.](https://dl.dropboxusercontent.com/u/11061210/Resume.pdf) It's probably
+[here.](https://www.dropbox.com/s/gf9n2fvs3jplrl0/Resume.pdf) It's probably
 out of date.
 
 In case you need to email me privately, my PGP key can be found [here.](key.asc)
