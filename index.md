@@ -15,7 +15,7 @@ secure file-sharing and virtualization platform.
 
 In my spare time I make music with [wpatcs.](http://wpatcs.bandcamp.com) I also waste multiple hours playing
 around with my MicroKorg synthesizer. You can check out what I've been listening
-to lately over at my [last.fm](http://www.last.fm/)
+to lately over at my [last.fm](http://www.last.fm/user/xyzodiac)
 
 My resume can be found
 [here.](https://dl.dropboxusercontent.com/u/11061210/Resume.pdf) It's probably
