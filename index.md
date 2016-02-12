@@ -18,7 +18,7 @@ In my spare time I make music with [wpatcs.](http://wpatcs.bandcamp.com) I also
 waste multiple hours playing around with my MicroKorg synthesizer. You can check
 out what I've been listening to lately over at my
 [last.fm](http://www.last.fm/user/xyzodiac). Weirdly enough, I also like
-programing [1](/projects) [2](https://github.com/jacobj).
+programing [[1](/projects)][[2](https://github.com/jacobj)].
 
 My resume can be found
 [here.](https://www.dropbox.com/s/gf9n2fvs3jplrl0/Resume.pdf) It's not out of
