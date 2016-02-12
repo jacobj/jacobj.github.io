@@ -19,7 +19,7 @@ A social bar crawling application that allows you to easily discover bars crawls
 created in your area and check in as you complete them. Built with Swift, Node,
 Express, and MongoDB in 18 hours for KnightHacks 2016.
 
-### Scribl 
+### Scribbl 
 [github.com/scribblapp/Scribbl](https://github.com/scribblapp/Scribbl)
 
 A social drawing game where two people continually add to a drawing on a turn by
