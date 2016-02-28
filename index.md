@@ -7,8 +7,7 @@ permalink: /
   <img src="img/me.png" width="200" align="center" style="margin-bottom:30px; border-radius:200px">
 </div>
 
-I recently graduated with a B.S. in computer science from the University of
-Florida. My interests include web development, distributed systems,
+Hey! I'm Jacob Jenkins. My interests include web development, distributed systems,
 cryptography, and Unix/Linux server administration.
 
 I currently work at a startup in Gainesville, Florida that's working on a secure
