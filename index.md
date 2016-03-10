@@ -27,7 +27,7 @@ In case you need to email me privately, my PGP key can be found [here.](key.asc)
 My fingerprint is:
 
 ```
-0CCC 4636 0573 C42B 56EB 8C0A 2A95 6239 DF1D 952D
+09C5 5C3B 79F3 38A1 E534 142A B37B 7EBF FE55 F5F1
 ```
 
 This site is generated using [Jekyll](http://jekyllrb.com/) and generously
