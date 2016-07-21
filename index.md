@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 <div style="text-align:center">
-  <img src="img/me.png" width="200" align="center" style="margin-bottom:30px; border-radius:200px">
+  <img src="img/me.jpg" width="200" align="center" style="margin-bottom:30px; border-radius:200px">
 </div>
 
 Hey! I'm Jacob Jenkins. My interests include web development, distributed systems,
