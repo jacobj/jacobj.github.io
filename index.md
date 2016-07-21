@@ -10,8 +10,7 @@ permalink: /
 Hey! I'm Jacob Jenkins. My interests include web development, distributed systems,
 cryptography, and Unix/Linux server administration.
 
-I currently work at a startup in Gainesville, Florida that's working on a secure
-platform for researchers.
+I'm currently working at Buoy Health in Boston. We're trying to change healthcare for the better.
 
 In my spare time I make music with [wpatcs.](http://wpatcs.bandcamp.com) I also
 waste multiple hours playing around with my MicroKorg synthesizer. You can check
