@@ -11,7 +11,7 @@ Hey! I'm Jacob. I'm a software engineer, recovering painter, musician, and bad c
 
 I'm currently working at [Buoy Health](https://buoyhealth.com). We're trying to change healthcare for the better.
 
-I used to make music with [wpatcs](http://wpatcs.bandcamp.com). Now I'm working on a new [solo project](chrysippusdiedlaughing.bandcamp.com). You can check out what I've been listening to lately over at my [last.fm](http://www.last.fm/user/xyzodiac). You can also find me on [soundcloud](https://soundcloud.com/lazyedit). Weirdly enough, I also like programming [[1](/projects)][[2](https://github.com/jacobj)].
+I used to make music with [wpatcs](http://wpatcs.bandcamp.com). Now I'm working on a new [solo project](https://chrysippusdiedlaughing.bandcamp.com). You can check out what I've been listening to lately over at my [last.fm](http://www.last.fm/user/xyzodiac). You can also find me on [soundcloud](https://soundcloud.com/lazyedit). Weirdly enough, I also like programming [[1](/projects)][[2](https://github.com/jacobj)].
 
 My resume can be found
 [here.](https://www.dropbox.com/s/apwc8uao7rk6tol/Jacob%20Jenkins%20Resume.pdf?dl=0) It's nearly a year out of date.
