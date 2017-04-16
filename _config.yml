@@ -2,10 +2,10 @@
 title: Jacob Jenkins
 email: jacob@jacobejenkins.com
 description: > # this means to ignore newlines until "baseurl:"
-    Developer, or something like that. Doing startup things.
+    It's going to be fine, calm down
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "jacobejenkins.com" # the base hostname & protocol for your site
-twitter_username: j4cobj
+twitter_username: wipeyadocsoff
 github_username:  jacobj
 
 # Build settings
