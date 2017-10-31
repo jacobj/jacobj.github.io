@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/jacobj
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jacobejenkins.com
+  * I am jacobj (https://keybase.io/jacobj) on keybase.
+  * I have a public key with fingerprint 09C5 5C3B 79F3 38A1 E534  142A B37B 7EBF FE55 F5F1
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101dec581c0ef1cb9f4a386fb2cb5a873d000105476b89040f7771f0e01c8c43b8e0a",
+            "fingerprint": "09c55c3b79f338a1e534142ab37b7ebffe55f5f1",
+            "host": "keybase.io",
+            "key_id": "b37b7ebffe55f5f1",
+            "kid": "0101dec581c0ef1cb9f4a386fb2cb5a873d000105476b89040f7771f0e01c8c43b8e0a",
+            "uid": "a3b986690bd757032070175453bf1800",
+            "username": "jacobj"
+        },
+        "service": {
+            "hostname": "jacobejenkins.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1457567182,
+    "expire_in": 157680000,
+    "prev": "491eb4e8b2fa2830326316ffa378fb44add8c901917e9da169942fa8256cb87b",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.51
+Comment: https://keybase.io/crypto
+
+yMIqAnicrZJZaBNBGMdT6xkR7wdPdKlUNKQz2Z2d2Wi96okVFKX6IIad3dl0k7gb
+N0mt1oDiCYJHS3woClLRh0K9qNIKaluqtlbFKi3YBy0Iaj0jKBUr6GxR8MFHn4aZ
+7/f/z//7+FrH5Hq8OR8fd73v29zRmdPRXJ3ylPRee1QhUFvfJQQrhCgbPFhMZ4lk
+KGrqQlAAEECdaYhADTADalQxJFUkskEDGkUqwaIOAIeQhGVKFCABA2MMDcAA1Igm
+iZQwoAo+wTCtMHPijmklXVtFQ0gTKVYMUSQqZEiUoBRQqYgpZtQwGEIGMiAXltoJ
+V8HDUTXB/KbN3/glNBjvH/x/zp0atFNFqhBZVgDVMcJADAAMIEYSEqkBCQAumGCO
+pW5nnI6omk0jQton8LcyU2PuWN0+/q6zCLOippXwa/Z2Lo87dtLW7BgvlyaT8aCr
+Tu6Ku/hORkO/jULUtHQ+SS4oY07CtC0hCDmpJU3XGUoIIxlDEvAJrDxuOixkugTC
+Mg8JgPsNK+OWkgIZlRihAUMNEJE3JItQNgxVxMSgkqTqOtEUABWImaKrUFYUiaMk
+gGSNEkwFt7Udls29Ic+phrlnwgxbajLlMCHd0rR1qCfH6xk+bIi7Yh7vqHF/Fq98
+94if9pwi/4n5n7fcOjOkZmNXeb9/X2VuwYM748/57I7WC+nZbzc9D294FspsJNVv
+pl1Z+On1klZzztqB/XhVrOrJuMbo/dHXdt8ozTrB7tRAXv75YZNrjrXljgotKE5/
+uX2w8GTRzatrVnTXNy+L18oZ2rj+wNTlnZEf9NTSvWqbPaL9PlnUN//QXZY9X3Xp
+8b2e62NX18DGD7GL24oKeyMNDXkTmb9pphA/8u6oUnu0q757webvBfNWzms/W1fy
+8mvz6OP7exafXpOdNObVt8oW1vsCvXv62Zu/p3M6vTojsy6W2dBfN3LW3MNafdZf
+NbnYv+mytW/CU7Ssr6gkUtDju/WwoXLKL3OCSFE=
+=zaui
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jacobj
+
+==================================================================
