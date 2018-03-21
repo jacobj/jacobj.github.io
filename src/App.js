@@ -84,7 +84,7 @@ const Title = styled.h2`
 `
 
 const LogoWrapper =  styled.div`
-  width: 100%;
+  width: 600px;
   display: flex;
   height: auto;
   align-items: center;
@@ -149,7 +149,7 @@ class App extends Component {
             <p>Jacob Jenkins (b. 1993) is an artist - in a old, stale way but also in a new, (seemingly) cool way. They graduated from the University of Florida with a BSA in Computer Science in 2015.</p>
             <p>Currently Jacob is living in Brooklyn, NY where they work for <Link href="https://www.buoyhealth.com">Buoy Health</Link> as a developer and a creative. They started working at Buoy in Spring of 2016 as employee #8.</p>
             <p>Jacob's resume can be found <Link href="https://www.dropbox.com/s/apwc8uao7rk6tol/Jacob%20Jenkins%20Resume.pdf?dl=1">here</Link>. One day they will find the time to update it.</p>
-            <p>If you need to email Jacob privately, their PGP key can be found <Link href="http://jacobejenkins.com/key.asc">here</Link>. Their PGP fingerprint is provided below.</p>
+            <p>If you need to <Link href="mailto:me@jacobejenkins.com">email</Link> Jacob privately, their PGP key can be found <Link href="http://jacobejenkins.com/key.asc">here</Link>. Their PGP fingerprint is provided below.</p>
             <FingerPrint>
               09C5 5C3B 79F3 38A1 E534 142A B37B 7EBF FE55 F5F1
             </FingerPrint>
